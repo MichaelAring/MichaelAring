@@ -1,2 +1,2 @@
-- Got locked out of old account and lost all data
-- Starting from scratch
+Hey there!
+- Got locked out of old account (my mistake), starting fresh again
