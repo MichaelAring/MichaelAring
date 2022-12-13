@@ -1,2 +1,3 @@
 Hey there!
-- Got locked out of old account (my mistake), starting fresh again
+
+I am head of marketing at Gitpod.
